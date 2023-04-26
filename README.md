@@ -1,4 +1,4 @@
-# The Drum Kit that Will Make You Want to Play All Day Long.
+# Drum Kit
 
 ![Drum Kit by Harsh Trivedi](https://raw.github.com/harsh98trivedi/Drum-Kit/master/meta.jpg)
 
